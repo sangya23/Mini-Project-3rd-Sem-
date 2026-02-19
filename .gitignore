@@ -1,0 +1,18 @@
+# Ignore Qt build folders
+build/
+*.pro.user
+*.pro.user.*   # sometimes Qt creates variant files
+
+# Ignore video and media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignore system files
+*.DS_Store
+Thumbs.db
+
+# Ignore editor or IDE files
+*.vscode/
+*.idea/
