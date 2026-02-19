@@ -1,7 +1,7 @@
 # Ignore Qt build folders
 build/
 *.pro.user
-*.pro.user.*   # sometimes Qt creates variant files
+*.pro.user.*  
 
 # Ignore video and media files
 *.mp4
